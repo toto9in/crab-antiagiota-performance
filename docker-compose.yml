@@ -17,8 +17,8 @@ services:
           memory: 30M
 
   api1:
-    build:
-      context: .
+    image: ghcr.io/toto9in/crab-antiagiota-performance:latest
+    pull_policy: always
     platform: linux/amd64
     environment:
       SOCKET_PATH: /tmp/sockets/api1.sock
@@ -31,8 +31,8 @@ services:
           memory: 110M
 
   api2:
-    build:
-      context: .
+    image: ghcr.io/toto9in/crab-antiagiota-performance:latest
+    pull_policy: always
     platform: linux/amd64
     environment:
       SOCKET_PATH: /tmp/sockets/api2.sock
