@@ -1,0 +1,10 @@
+{
+  "participants": ["Antônio Alves Borges de Almeida"],
+  "social": [
+    "https://github.com/toto9in",
+    "https://www.linkedin.com/in/antônio-alves-49a385219"
+  ],
+  "source-code-repo": "https://github.com/toto9in/crab-antiagiota-performance",
+  "stack": ["rust", "nginx"],
+  "open_to_work": true
+}
