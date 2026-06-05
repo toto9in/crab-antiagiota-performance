@@ -1,15 +1,3 @@
-x-api: &api
-  image: ghcr.io/toto9in/crab-antiagiota-performance:latest
-  pull_policy: always
-  platform: linux/amd64
-  volumes:
-    - sockets:/tmp/sockets
-  deploy:
-    resources:
-      limits:
-        cpus: "0.45"
-        memory: 150M
-
 services:
   lb:
     image: haproxy:3.0-alpine
@@ -29,14 +17,32 @@ services:
           memory: 30M
 
   api1:
-    <<: *api
+    image: ghcr.io/toto9in/crab-antiagiota-performance:latest
+    pull_policy: always
+    platform: linux/amd64
     environment:
       SOCKET_PATH: /tmp/sockets/api1.sock
+    volumes:
+      - sockets:/tmp/sockets
+    deploy:
+      resources:
+        limits:
+          cpus: "0.400"
+          memory: 110M
 
   api2:
-    <<: *api
+    image: ghcr.io/toto9in/crab-antiagiota-performance:latest
+    pull_policy: always
+    platform: linux/amd64
     environment:
       SOCKET_PATH: /tmp/sockets/api2.sock
+    volumes:
+      - sockets:/tmp/sockets
+    deploy:
+      resources:
+        limits:
+          cpus: "0.400"
+          memory: 110M
 
 volumes:
   sockets:
