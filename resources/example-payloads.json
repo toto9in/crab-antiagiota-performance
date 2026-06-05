@@ -9,7 +9,10 @@
     "customer": {
       "avg_amount": 82.24,
       "tx_count_24h": 3,
-      "known_merchants": ["MERC-003", "MERC-016"]
+      "known_merchants": [
+        "MERC-003",
+        "MERC-016"
+      ]
     },
     "merchant": {
       "id": "MERC-016",
@@ -33,7 +36,12 @@
     "customer": {
       "avg_amount": 769.76,
       "tx_count_24h": 3,
-      "known_merchants": ["MERC-009", "MERC-009", "MERC-001", "MERC-001"]
+      "known_merchants": [
+        "MERC-009",
+        "MERC-009",
+        "MERC-001",
+        "MERC-001"
+      ]
     },
     "merchant": {
       "id": "MERC-001",
@@ -93,7 +101,12 @@
     "customer": {
       "avg_amount": 206.48,
       "tx_count_24h": 5,
-      "known_merchants": ["MERC-009", "MERC-008", "MERC-004", "MERC-019"]
+      "known_merchants": [
+        "MERC-009",
+        "MERC-008",
+        "MERC-004",
+        "MERC-019"
+      ]
     },
     "merchant": {
       "id": "MERC-019",
@@ -153,7 +166,12 @@
     "customer": {
       "avg_amount": 108.4,
       "tx_count_24h": 20,
-      "known_merchants": ["MERC-010", "MERC-005", "MERC-001", "MERC-015"]
+      "known_merchants": [
+        "MERC-010",
+        "MERC-005",
+        "MERC-001",
+        "MERC-015"
+      ]
     },
     "merchant": {
       "id": "MERC-074",
@@ -180,7 +198,10 @@
     "customer": {
       "avg_amount": 227.25,
       "tx_count_24h": 17,
-      "known_merchants": ["MERC-017", "MERC-016"]
+      "known_merchants": [
+        "MERC-017",
+        "MERC-016"
+      ]
     },
     "merchant": {
       "id": "MERC-070",
@@ -240,7 +261,11 @@
     "customer": {
       "avg_amount": 630.66,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-003", "MERC-017", "MERC-010"]
+      "known_merchants": [
+        "MERC-003",
+        "MERC-017",
+        "MERC-010"
+      ]
     },
     "merchant": {
       "id": "MERC-003",
@@ -267,7 +292,10 @@
     "customer": {
       "avg_amount": 814.06,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-015", "MERC-012"]
+      "known_merchants": [
+        "MERC-015",
+        "MERC-012"
+      ]
     },
     "merchant": {
       "id": "MERC-012",
@@ -294,7 +322,11 @@
     "customer": {
       "avg_amount": 81.28,
       "tx_count_24h": 20,
-      "known_merchants": ["MERC-008", "MERC-007", "MERC-005"]
+      "known_merchants": [
+        "MERC-008",
+        "MERC-007",
+        "MERC-005"
+      ]
     },
     "merchant": {
       "id": "MERC-068",
@@ -318,7 +350,12 @@
     "customer": {
       "avg_amount": 525.7,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-004", "MERC-009", "MERC-017", "MERC-009"]
+      "known_merchants": [
+        "MERC-004",
+        "MERC-009",
+        "MERC-017",
+        "MERC-009"
+      ]
     },
     "merchant": {
       "id": "MERC-004",
@@ -345,7 +382,12 @@
     "customer": {
       "avg_amount": 994.48,
       "tx_count_24h": 5,
-      "known_merchants": ["MERC-007", "MERC-001", "MERC-008", "MERC-005"]
+      "known_merchants": [
+        "MERC-007",
+        "MERC-001",
+        "MERC-008",
+        "MERC-005"
+      ]
     },
     "merchant": {
       "id": "MERC-001",
@@ -372,7 +414,10 @@
     "customer": {
       "avg_amount": 436.56,
       "tx_count_24h": 5,
-      "known_merchants": ["MERC-003", "MERC-001"]
+      "known_merchants": [
+        "MERC-003",
+        "MERC-001"
+      ]
     },
     "merchant": {
       "id": "MERC-001",
@@ -399,7 +444,10 @@
     "customer": {
       "avg_amount": 195.68,
       "tx_count_24h": 5,
-      "known_merchants": ["MERC-002", "MERC-003"]
+      "known_merchants": [
+        "MERC-002",
+        "MERC-003"
+      ]
     },
     "merchant": {
       "id": "MERC-002",
@@ -423,7 +471,10 @@
     "customer": {
       "avg_amount": 666.68,
       "tx_count_24h": 4,
-      "known_merchants": ["MERC-012", "MERC-011"]
+      "known_merchants": [
+        "MERC-012",
+        "MERC-011"
+      ]
     },
     "merchant": {
       "id": "MERC-012",
@@ -450,7 +501,11 @@
     "customer": {
       "avg_amount": 148.76,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-008", "MERC-003", "MERC-016"]
+      "known_merchants": [
+        "MERC-008",
+        "MERC-003",
+        "MERC-016"
+      ]
     },
     "merchant": {
       "id": "MERC-008",
@@ -474,7 +529,10 @@
     "customer": {
       "avg_amount": 239.02,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-010", "MERC-013"]
+      "known_merchants": [
+        "MERC-010",
+        "MERC-013"
+      ]
     },
     "merchant": {
       "id": "MERC-010",
@@ -501,7 +559,11 @@
     "customer": {
       "avg_amount": 809.82,
       "tx_count_24h": 3,
-      "known_merchants": ["MERC-003", "MERC-016", "MERC-007"]
+      "known_merchants": [
+        "MERC-003",
+        "MERC-016",
+        "MERC-007"
+      ]
     },
     "merchant": {
       "id": "MERC-016",
@@ -561,7 +623,10 @@
     "customer": {
       "avg_amount": 213.44,
       "tx_count_24h": 10,
-      "known_merchants": ["MERC-009", "MERC-014"]
+      "known_merchants": [
+        "MERC-009",
+        "MERC-014"
+      ]
     },
     "merchant": {
       "id": "MERC-097",
@@ -588,7 +653,11 @@
     "customer": {
       "avg_amount": 133.63,
       "tx_count_24h": 19,
-      "known_merchants": ["MERC-002", "MERC-009", "MERC-005"]
+      "known_merchants": [
+        "MERC-002",
+        "MERC-009",
+        "MERC-005"
+      ]
     },
     "merchant": {
       "id": "MERC-065",
@@ -615,7 +684,11 @@
     "customer": {
       "avg_amount": 461.98,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-017", "MERC-012", "MERC-016"]
+      "known_merchants": [
+        "MERC-017",
+        "MERC-012",
+        "MERC-016"
+      ]
     },
     "merchant": {
       "id": "MERC-016",
@@ -639,7 +712,12 @@
     "customer": {
       "avg_amount": 696.16,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-003", "MERC-006", "MERC-018", "MERC-003"]
+      "known_merchants": [
+        "MERC-003",
+        "MERC-006",
+        "MERC-018",
+        "MERC-003"
+      ]
     },
     "merchant": {
       "id": "MERC-018",
@@ -666,7 +744,12 @@
     "customer": {
       "avg_amount": 458.38,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-016", "MERC-011", "MERC-004", "MERC-017"]
+      "known_merchants": [
+        "MERC-016",
+        "MERC-011",
+        "MERC-004",
+        "MERC-017"
+      ]
     },
     "merchant": {
       "id": "MERC-011",
@@ -759,7 +842,12 @@
     "customer": {
       "avg_amount": 292.29,
       "tx_count_24h": 11,
-      "known_merchants": ["MERC-012", "MERC-011", "MERC-017", "MERC-013"]
+      "known_merchants": [
+        "MERC-012",
+        "MERC-011",
+        "MERC-017",
+        "MERC-013"
+      ]
     },
     "merchant": {
       "id": "MERC-074",
@@ -786,7 +874,11 @@
     "customer": {
       "avg_amount": 61.04,
       "tx_count_24h": 4,
-      "known_merchants": ["MERC-009", "MERC-001", "MERC-005"]
+      "known_merchants": [
+        "MERC-009",
+        "MERC-001",
+        "MERC-005"
+      ]
     },
     "merchant": {
       "id": "MERC-001",
@@ -813,7 +905,12 @@
     "customer": {
       "avg_amount": 134.23,
       "tx_count_24h": 18,
-      "known_merchants": ["MERC-002", "MERC-001", "MERC-004", "MERC-005"]
+      "known_merchants": [
+        "MERC-002",
+        "MERC-001",
+        "MERC-004",
+        "MERC-005"
+      ]
     },
     "merchant": {
       "id": "MERC-066",
@@ -840,7 +937,11 @@
     "customer": {
       "avg_amount": 199.02,
       "tx_count_24h": 13,
-      "known_merchants": ["MERC-012", "MERC-006", "MERC-009"]
+      "known_merchants": [
+        "MERC-012",
+        "MERC-006",
+        "MERC-009"
+      ]
     },
     "merchant": {
       "id": "MERC-096",
@@ -900,7 +1001,10 @@
     "customer": {
       "avg_amount": 113.96,
       "tx_count_24h": 5,
-      "known_merchants": ["MERC-010", "MERC-006"]
+      "known_merchants": [
+        "MERC-010",
+        "MERC-006"
+      ]
     },
     "merchant": {
       "id": "MERC-006",
@@ -924,7 +1028,12 @@
     "customer": {
       "avg_amount": 646.32,
       "tx_count_24h": 5,
-      "known_merchants": ["MERC-019", "MERC-006", "MERC-006", "MERC-019"]
+      "known_merchants": [
+        "MERC-019",
+        "MERC-006",
+        "MERC-006",
+        "MERC-019"
+      ]
     },
     "merchant": {
       "id": "MERC-006",
@@ -951,7 +1060,10 @@
     "customer": {
       "avg_amount": 321.82,
       "tx_count_24h": 3,
-      "known_merchants": ["MERC-001", "MERC-018"]
+      "known_merchants": [
+        "MERC-001",
+        "MERC-018"
+      ]
     },
     "merchant": {
       "id": "MERC-018",
@@ -975,7 +1087,11 @@
     "customer": {
       "avg_amount": 787.18,
       "tx_count_24h": 3,
-      "known_merchants": ["MERC-010", "MERC-007", "MERC-012"]
+      "known_merchants": [
+        "MERC-010",
+        "MERC-007",
+        "MERC-012"
+      ]
     },
     "merchant": {
       "id": "MERC-010",
@@ -999,7 +1115,10 @@
     "customer": {
       "avg_amount": 293.48,
       "tx_count_24h": 9,
-      "known_merchants": ["MERC-006", "MERC-007"]
+      "known_merchants": [
+        "MERC-006",
+        "MERC-007"
+      ]
     },
     "merchant": {
       "id": "MERC-075",
@@ -1026,7 +1145,11 @@
     "customer": {
       "avg_amount": 102.06,
       "tx_count_24h": 15,
-      "known_merchants": ["MERC-007", "MERC-009", "MERC-008"]
+      "known_merchants": [
+        "MERC-007",
+        "MERC-009",
+        "MERC-008"
+      ]
     },
     "merchant": {
       "id": "MERC-079",
@@ -1053,7 +1176,12 @@
     "customer": {
       "avg_amount": 261.79,
       "tx_count_24h": 8,
-      "known_merchants": ["MERC-005", "MERC-009", "MERC-010", "MERC-004"]
+      "known_merchants": [
+        "MERC-005",
+        "MERC-009",
+        "MERC-010",
+        "MERC-004"
+      ]
     },
     "merchant": {
       "id": "MERC-074",
@@ -1080,7 +1208,11 @@
     "customer": {
       "avg_amount": 188.59,
       "tx_count_24h": 11,
-      "known_merchants": ["MERC-006", "MERC-016", "MERC-016"]
+      "known_merchants": [
+        "MERC-006",
+        "MERC-016",
+        "MERC-016"
+      ]
     },
     "merchant": {
       "id": "MERC-082",
@@ -1104,7 +1236,10 @@
     "customer": {
       "avg_amount": 114.52,
       "tx_count_24h": 4,
-      "known_merchants": ["MERC-019", "MERC-005"]
+      "known_merchants": [
+        "MERC-019",
+        "MERC-005"
+      ]
     },
     "merchant": {
       "id": "MERC-019",
@@ -1131,7 +1266,12 @@
     "customer": {
       "avg_amount": 349.94,
       "tx_count_24h": 5,
-      "known_merchants": ["MERC-014", "MERC-001", "MERC-008", "MERC-003"]
+      "known_merchants": [
+        "MERC-014",
+        "MERC-001",
+        "MERC-008",
+        "MERC-003"
+      ]
     },
     "merchant": {
       "id": "MERC-031",
@@ -1158,7 +1298,10 @@
     "customer": {
       "avg_amount": 484.14,
       "tx_count_24h": 2,
-      "known_merchants": ["MERC-004", "MERC-011"]
+      "known_merchants": [
+        "MERC-004",
+        "MERC-011"
+      ]
     },
     "merchant": {
       "id": "MERC-004",
@@ -1218,7 +1361,10 @@
     "customer": {
       "avg_amount": 168.71,
       "tx_count_24h": 8,
-      "known_merchants": ["MERC-001", "MERC-007"]
+      "known_merchants": [
+        "MERC-001",
+        "MERC-007"
+      ]
     },
     "merchant": {
       "id": "MERC-072",
@@ -1278,7 +1424,11 @@
     "customer": {
       "avg_amount": 321.52,
       "tx_count_24h": 10,
-      "known_merchants": ["MERC-001", "MERC-013", "MERC-010"]
+      "known_merchants": [
+        "MERC-001",
+        "MERC-013",
+        "MERC-010"
+      ]
     },
     "merchant": {
       "id": "MERC-041",
@@ -1305,7 +1455,12 @@
     "customer": {
       "avg_amount": 108.44,
       "tx_count_24h": 1,
-      "known_merchants": ["MERC-011", "MERC-015", "MERC-003", "MERC-019"]
+      "known_merchants": [
+        "MERC-011",
+        "MERC-015",
+        "MERC-003",
+        "MERC-019"
+      ]
     },
     "merchant": {
       "id": "MERC-011",
@@ -1362,7 +1517,10 @@
     "customer": {
       "avg_amount": 138.94,
       "tx_count_24h": 15,
-      "known_merchants": ["MERC-018", "MERC-015"]
+      "known_merchants": [
+        "MERC-018",
+        "MERC-015"
+      ]
     },
     "merchant": {
       "id": "MERC-091",

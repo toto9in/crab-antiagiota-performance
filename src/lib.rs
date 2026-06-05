@@ -1,8 +1,12 @@
 pub mod api;
-pub mod classifier;
-pub mod dataset;
 pub mod distance;
-pub mod mccrisk;
+pub mod eval;
+pub mod ivf;
+pub mod kmeans;
+pub mod knn;
+pub mod mcc_risk;
 pub mod normalization;
-pub mod payload;
-pub mod state;
+pub mod quantizer;
+pub mod reference_store;
+pub mod transaction;
+pub mod vectorizer;
