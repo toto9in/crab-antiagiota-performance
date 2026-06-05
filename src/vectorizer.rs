@@ -155,24 +155,28 @@ mod tests {
     #[test]
     fn hour_of_day_boundaries() {
         let mut req = make_request(None);
-        req.transaction.requested_at =
-            DateTime::parse_from_rfc3339("2026-03-11T00:00:00Z").unwrap().to_utc();
+        req.transaction.requested_at = DateTime::parse_from_rfc3339("2026-03-11T00:00:00Z")
+            .unwrap()
+            .to_utc();
         assert_eq!(vectorize(&req)[3], 0.0);
 
-        req.transaction.requested_at =
-            DateTime::parse_from_rfc3339("2026-03-11T23:00:00Z").unwrap().to_utc();
+        req.transaction.requested_at = DateTime::parse_from_rfc3339("2026-03-11T23:00:00Z")
+            .unwrap()
+            .to_utc();
         assert_eq!(vectorize(&req)[3], 1.0);
     }
 
     #[test]
     fn day_of_week_boundaries() {
         let mut req = make_request(None);
-        req.transaction.requested_at =
-            DateTime::parse_from_rfc3339("2026-03-09T12:00:00Z").unwrap().to_utc();
+        req.transaction.requested_at = DateTime::parse_from_rfc3339("2026-03-09T12:00:00Z")
+            .unwrap()
+            .to_utc();
         assert_eq!(vectorize(&req)[4], 0.0);
 
-        req.transaction.requested_at =
-            DateTime::parse_from_rfc3339("2026-03-15T12:00:00Z").unwrap().to_utc();
+        req.transaction.requested_at = DateTime::parse_from_rfc3339("2026-03-15T12:00:00Z")
+            .unwrap()
+            .to_utc();
         assert_eq!(vectorize(&req)[4], 1.0);
     }
 }
